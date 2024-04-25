@@ -1,7 +1,7 @@
 {
     "name": "react-select-pckg",
     "private": false,
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "A simple select component for React",
     "main": "dist/index.umd.js",
     "module": "dist/index.es.js",
@@ -42,5 +42,19 @@
         "eslint-plugin-react-refresh": "^0.4.4",
         "typescript": "^5.2.2",
         "vite": "^5.0.0"
+    },
+    "keywords": [
+        "select",
+        "ract",
+        "form",
+        "options"
+    ],
+    "author": {
+        "name": "NKSnT",
+        "email": ""
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/NKSnT/react-select-pckg"
     }
 }
